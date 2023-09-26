@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.001">
+           time="0.748">
     <properties></properties>
 
 
 
             <testcase
                 name="ForhemTest"
-                time="0.001"
+                time="0.748"
                 classname="Test.ForhemerTest">
             </testcase>
 </testsuite>
